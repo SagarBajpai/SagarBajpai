@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `JavaScript` mostly (React, Ember...)
-- 🌱 I’m currently learning CI/CD using Jenkins.
+- 🔭 I’m currently working on `JavaScript` mostly (React, Node, AWS...)
 - 👯 I’m looking to collaborate on `JavaScript` projects.
 - 🤔 I’m looking for help with `Scalable Architecture for Frontends`.
 - 💬 Ask me about `JavaScript, React Hooks, Redux, Life ...`
